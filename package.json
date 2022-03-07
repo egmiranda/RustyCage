@@ -8,7 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "E.G Miranda",
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.21.1"
