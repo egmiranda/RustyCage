@@ -1,0 +1,16 @@
+{
+  "name": "rustycage",
+  "author": "E.G Miranda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "E.G Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.21.1"
+  }
+}
